@@ -32,12 +32,11 @@ I'm currently working on a project called **Spacey's (Stratospheric Polarization
 
 ## Badges
 
-[![Build Status](https://img.shields.io/travis/user/repo.svg)](https://travis-ci.org/user/repo)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?R4VILKHGB=R4VILKHGB&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=R4VILKHGB&show_icons=true)
 
 ## Get in Touch
 
