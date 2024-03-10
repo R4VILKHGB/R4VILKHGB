@@ -30,6 +30,9 @@ I'm currently working on a project called **Spacey's (Stratospheric Polarization
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+- Tools:
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=R4VILKHGB&show_icons=true)
