@@ -30,10 +30,6 @@ I'm currently working on a project called **Spacey's (Stratospheric Polarization
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-## Badges
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=R4VILKHGB&show_icons=true)
@@ -50,4 +46,7 @@ R4VILKHGB/R4VILKHGB is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 
 -- Website: [Your Personal Website URL]
+## Badges
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 --->
