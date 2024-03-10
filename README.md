@@ -36,7 +36,7 @@ I'm currently working on a project called **Spacey's (Stratospheric Polarization
 
 <!-- Tools:-->
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-[![Git](https://img.shields.io/badge/Git-Version%20Control-yellow.svg)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=github&logoColor=white)](https://git-scm.com/)
 
 ## GitHub Stats
 
