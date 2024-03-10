@@ -9,6 +9,10 @@ I'm currently working on a project called **Spacey's (Stratospheric Polarization
 - 🌱 I’m currently learning computer vision and microcontroller programming (particularly utilizing Thonny and Raspberry Pi Pico).
 - ⚡ Fun fact: I'm passionate about drawing, both in traditional (particularly with charcoal) and digital mediums. My keen eye for design has been a defining trait since childhood. I'm proficient in Adobe Photoshop, showcasing my dedication and skill in image manipulation and graphic design.
 
+## Projects
+
+- [Project 1](https://spaceys.blog/): Spacey's is one of the official teams for the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge from UBC Okanagan. I'm designing the software architecture for the microcontroller (Raspberry Pi Pico) that will be inside the payload of the stratospheric balloon, utilizing Python.
+- 
 ## Skills
 
 <!-- Programming Languages:-->
