@@ -29,7 +29,15 @@ I'm currently working on a project called **Spacey's (Stratospheric Polarization
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  
+
+## Badges
+
+[![Build Status](https://img.shields.io/travis/user/repo.svg)](https://travis-ci.org/user/repo)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?R4VILKHGB=R4VILKHGB&show_icons=true)
 
 ## Get in Touch
 
