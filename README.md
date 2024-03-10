@@ -40,7 +40,7 @@ I'm currently working on a project called **Spacey's (Stratospheric Polarization
 ## Get in Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R4VILKHGB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ravil-b-689b562a8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravil-b-689b562a8)
 
 Feel free to explore my repositories and reach out if you have any questions or suggestions. Let's connect and collaborate! 😊
 
