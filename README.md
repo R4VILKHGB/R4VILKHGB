@@ -11,8 +11,8 @@ I'm currently working on a project called **Spacey's (Stratospheric Polarization
 
 ## Projects
 
-- [Project 1](https://spaceys.blog/): Spacey's is one of the official teams for the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge from UBC Okanagan. I'm designing the software architecture for the microcontroller (Raspberry Pi Pico) that will be inside the payload of the stratospheric balloon, utilizing Python.
-- 
+[![Spacey's](https://spaceys.blog/): Spacey's is one of the official teams for the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge from UBC Okanagan. I'm designing the software architecture for the microcontroller (Raspberry Pi Pico) that will be inside the payload of the stratospheric balloon, utilizing Python.
+  
 ## Skills
 
 <!-- Programming Languages:-->
