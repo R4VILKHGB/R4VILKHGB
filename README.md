@@ -3,15 +3,15 @@
 ## Computer Science Student at UBC
 I'm a dedicated and driven computer science student at the University of British Columbia, currently in my final year. I'm interested in AI, data analysis, and UI/UX design, crafting user-centric solutions with a focus on innovation and value. I have practical experience in data analysis, UI/UX design, and web development. I'm eager to expand my knowledge and skills in AI, particularly deep learning. 
 
-I'm currently working on a project called **Spacey's (Stratospheric Polarization Analysis for Calculating Electromagnetic Yaw)**, as part of the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge.
+I have worked on **Spacey's (Stratospheric Polarization Analysis for Calculating Electromagnetic Yaw)**, as part of the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge. As a team, our goal was to design a unique payload for a stratospheric balloon, enabling us to conduct scientific experiments. We measured the physical rotation of the antenna on the balloon from the ground through the power of electromagnetic field. (Our project was supported by CEDS-EEDS Canada and the Canadian Space Agency.) My primary responsibilities included data analysis and software engineering. I was designing the software architecture for the microcontroller (Raspberry Pi Pico) that will be inside the payload of the stratospheric balloon, utilizing Python. We successfully launched our payload on June 24 (at the Timmins Victor M. Power Airport) and gathered the necessary data. I also created a program to track the payload direction and bearing after launch to adjust the ground station antenna as necessary.
 
 - 👀 I’m interested in deep learning, data analysis, and UI/ UX design. 
-- 🌱 I’m currently learning computer vision and microcontroller programming (particularly utilizing Thonny and Raspberry Pi Pico).
+- 🌱 I’m currently learning computer vision.
 - ⚡ Fun fact: I'm passionate about drawing, both in traditional (particularly with charcoal) and digital mediums. My keen eye for design has been a defining trait since childhood. I'm proficient in Adobe Photoshop.
 
 ## Projects
 
-[Spacey's Blog](https://spaceys.blog/): Spacey's is one of the official teams for the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge from UBC Okanagan. I'm designing the software architecture for the microcontroller (Raspberry Pi Pico) that will be inside the payload of the stratospheric balloon, utilizing Python.
+[Spacey's Blog](https://spaceys.blog/): Spacey's is one of the official teams for the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge from UBC Okanagan. I designed the software architecture for the microcontroller (Raspberry Pi Pico) that was inside the payload of the stratospheric balloon, utilizing Python.
   
 ## Skills
 
