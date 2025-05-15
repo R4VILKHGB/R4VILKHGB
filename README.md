@@ -16,7 +16,7 @@ Currently, I work part-time at a private company, where I design and develop sof
 ### [Spacey's Blog](https://spaceys.blog/) 
 Official UBCO team for CAN-SBX 2023–2024. I led software development for our stratospheric payload, building the microcontroller software architecture in Python and creating a custom program to track and adjust the ground station antenna orientation post-launch.
 
-### AIDE [AIDE_demo.mp4](https://bit.ly/43m7mnn)
+### [AIDE](https://bit.ly/43m7mnn)
 AI-powered platform built to streamline grading in web development courses. As part of a six-person capstone team, I co-developed AIDE using a microservices architecture (React frontend, Node.js backend, PostgreSQL database). We implemented Docker for containerization and Drone CI for seamless deployment. AIDE automates grading of HTML/CSS/JS and weblink submissions and provides personalized feedback to students. 
 
 ### [Fujitsubame Finance Dashboard](https://github.com/R4VILKHGB/fujitsubame-finance-dashboard) 
