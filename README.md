@@ -18,6 +18,7 @@ Official UBCO team for CAN-SBX 2023–2024. I led software development for our s
 
 ### AIDE
 AI-powered platform built to streamline grading in web development courses. As part of a six-person capstone team, I co-developed AIDE using a microservices architecture (React frontend, Node.js backend, PostgreSQL database). We implemented Docker for containerization and Drone CI for seamless deployment. AIDE automates grading of HTML/CSS/JS and weblink submissions and provides personalized feedback to students.
+📹 [AIDE_demo.mp4](https://bit.ly/43m7mnn)
 
 ### [Fujitsubame Finance Dashboard](https://github.com/R4VILKHGB/fujitsubame-finance-dashboard) 
 A Qt-based desktop finance dashboard built for Fuji Tsubame Co., Ltd. to manage partner companies and contractual revenues. Fully localized, offline-capable, and designed with a clean QML/C++ architecture. Shared here as a showcase of production-level application development.
