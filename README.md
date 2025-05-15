@@ -1,21 +1,23 @@
 # 👋 Hi, my name is Ravil
 
-## Computer Science Student at UBC
-I'm a dedicated and driven computer science student at the University of British Columbia, currently in my final year. I'm interested in AI, data analysis, and UI/UX design, crafting user-centric solutions with a focus on innovation and value. I have practical experience in data analysis, UI/UX design, and web development. I'm eager to expand my knowledge and skills in AI, particularly deep learning. 
+## Computer Science Graduate | Software Developer | Data Scientist
+I'm a computer science graduate from the University of British Columbia with a strong passion for AI, data analysis, and UI/UX design. My work focuses on building user-centric software that blends innovation with functionality. Over the past few years, I’ve gained hands-on experience in data analysis, web development, and design—both through academic projects and real-world applications.
 
-I have worked on **Spacey's (Stratospheric Polarization Analysis for Calculating Electromagnetic Yaw)**, as part of the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge. As a team, our goal was to design a unique payload for a stratospheric balloon, enabling us to conduct scientific experiments. We measured the physical rotation of the antenna on the balloon from the ground through the power of electromagnetic field. (Our project was supported by CEDS-EEDS Canada and the Canadian Space Agency.) 
+One of my most impactful experiences was contributing to **Spacey's (Stratospheric Polarization Analysis for Calculating Electromagnetic Yaw)** as part of the CAN-SBX 2023–2024 Canadian Stratospheric Balloon Experiment Design Challenge. Our team developed a unique payload to be launched into the stratosphere, where I engineered a system using a Raspberry Pi Pico to track payload rotation via electromagnetic fields—successfully tested during our launch on June 24 at the Timmins Victor M. Power Airport. This project was supported by CEDS-EEDS Canada and the Canadian Space Agency.
 
-Right now, I am working for a private company to design and develop software solutions part-time, while being indulged in my personal projects. You can check out the bookkeeping and calendar application I have developed with Qt.
+Currently, I work part-time at a private company, where I design and develop software solutions. One of the projects I built for the company—a bookkeeping and calendar application using Qt—is available on my GitHub as a personal showcase.
 
-- 👀 I’m interested in deep learning, data analysis, and UI/ UX design. 
-- 🌱 I’m currently learning 
-- ⚡ Fun fact: I'm passionate about drawing, both in traditional (particularly with charcoal) and digital mediums. My keen eye for design has been a defining trait since childhood. I'm proficient in Adobe Photoshop.
+- 👀 I’m interested in deep learning, data analysis, and UI/UX design.
+- 🌱 I’m currently exploring advanced AI and creative applications of machine learning.
+- ⚡ Fun fact: I’ve been drawing since I could hold a pencil—charcoal is my favorite medium. I also enjoy digital design and am proficient in Adobe Photoshop.
 
 ## Projects
 
-[Spacey's Blog](https://spaceys.blog/): Spacey's is one of the official teams for the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge from UBC Okanagan. My primary responsibilities included data analysis and software engineering. I was designing the software architecture for the microcontroller (Raspberry Pi Pico) that will be inside the payload of the stratospheric balloon, utilizing Python. We successfully launched our payload on June 24 (at the Timmins Victor M. Power Airport) and gathered the necessary data. I also created a program to track the payload direction and bearing after launch to adjust the ground station antenna as necessary.
+[Spacey's Blog](https://spaceys.blog/) 
+Official UBCO team for CAN-SBX 2023–2024. I led software development for our stratospheric payload, building the microcontroller software architecture in Python and creating a custom program to track and adjust the ground station antenna orientation post-launch.
 
-Developed AIDE, an AI-driven platform tailored to streamline grading in web development courses, in collaboration with a dedicated team of six members as our capstone project. Designed to handle HTML, CSS, JavaScript, and web link submissions, AIDE offers automated grading and personalized feedback, enhancing the academic experience for students and instructors. We used microservices architecture, with a React frontend, Node.js backend, and PostgreSQL database. And utilized Docker for containerization and Drone CI for continuous integration, ensuring efficient development and scalability.
+AIDE
+AI-powered platform built to streamline grading in web development courses. As part of a six-person capstone team, I co-developed AIDE using a microservices architecture (React frontend, Node.js backend, PostgreSQL database). We implemented Docker for containerization and Drone CI for seamless deployment. AIDE automates grading of HTML/CSS/JS and weblink submissions and provides personalized feedback to students.
   
 ## Skills
 
