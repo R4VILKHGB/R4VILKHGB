@@ -5,13 +5,17 @@ I'm a dedicated and driven computer science student at the University of British
 
 I have worked on **Spacey's (Stratospheric Polarization Analysis for Calculating Electromagnetic Yaw)**, as part of the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge. As a team, our goal was to design a unique payload for a stratospheric balloon, enabling us to conduct scientific experiments. We measured the physical rotation of the antenna on the balloon from the ground through the power of electromagnetic field. (Our project was supported by CEDS-EEDS Canada and the Canadian Space Agency.) 
 
+Right now, I am working for a private company to design and develop software solutions part-time, while being indulged in my personal projects. You can check out the bookkeeping and calendar application I have developed with Qt.
+
 - 👀 I’m interested in deep learning, data analysis, and UI/ UX design. 
-- 🌱 I’m currently learning computer vision.
+- 🌱 I’m currently learning 
 - ⚡ Fun fact: I'm passionate about drawing, both in traditional (particularly with charcoal) and digital mediums. My keen eye for design has been a defining trait since childhood. I'm proficient in Adobe Photoshop.
 
 ## Projects
 
 [Spacey's Blog](https://spaceys.blog/): Spacey's is one of the official teams for the CAN-SBX 2023-2024/ Canadian Stratospheric Balloon Experiment Design Challenge from UBC Okanagan. My primary responsibilities included data analysis and software engineering. I was designing the software architecture for the microcontroller (Raspberry Pi Pico) that will be inside the payload of the stratospheric balloon, utilizing Python. We successfully launched our payload on June 24 (at the Timmins Victor M. Power Airport) and gathered the necessary data. I also created a program to track the payload direction and bearing after launch to adjust the ground station antenna as necessary.
+
+Developed AIDE, an AI-driven platform tailored to streamline grading in web development courses, in collaboration with a dedicated team of six members as our capstone project. Designed to handle HTML, CSS, JavaScript, and web link submissions, AIDE offers automated grading and personalized feedback, enhancing the academic experience for students and instructors. We used microservices architecture, with a React frontend, Node.js backend, and PostgreSQL database. And utilized Docker for containerization and Drone CI for continuous integration, ensuring efficient development and scalability.
   
 ## Skills
 
