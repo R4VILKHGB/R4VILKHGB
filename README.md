@@ -13,7 +13,7 @@ Currently, I work part-time at a private company, where I design and develop sof
 
 ## Projects
 
-### My Portfolio: [ravilb.dev](https://www.ravilb.dev/)
+### [My Portfolio](https://www.ravilb.dev/)
 
 ### [Spacey's Blog](https://spaceys.blog/) | [Spacey's Main Repo](https://github.com/R4VILKHGB/Spaceys) | [Spacey's Balloon Tracker](https://github.com/R4VILKHGB/Spaceys-balloon-tracker)
 Official UBCO team for CAN-SBX 2023–2024. I led software development for our stratospheric payload, building the microcontroller software architecture in Python and creating a custom program to track and adjust the ground station antenna orientation post-launch.
