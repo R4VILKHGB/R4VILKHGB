@@ -5,8 +5,6 @@ I'm a computer science graduate from the University of British Columbia with a s
 
 One of my most impactful experiences was contributing to **Spacey's (Stratospheric Polarization Analysis for Calculating Electromagnetic Yaw)** as part of the CAN-SBX 2023–2024 Canadian Stratospheric Balloon Experiment Design Challenge. Our team developed a unique payload to be launched into the stratosphere, where I engineered a system using a Raspberry Pi Pico to track payload rotation via electromagnetic fields—successfully tested during our launch on June 24 at the Timmins Victor M. Power Airport. This project was supported by CEDS-EEDS Canada and the Canadian Space Agency. 
 
-Currently, I work part-time at a private company, where I design and develop software solutions. One of the projects I built for the company—a bookkeeping and calendar application using Qt—is available on my GitHub as a personal showcase. 
-
 - 👀 I’m interested in deep learning, data analysis, and UI/UX design.
 - 🌱 I’m currently exploring advanced AI and creative applications of machine learning.
 - ⚡ Fun fact: I’ve been drawing since I could hold a pencil—charcoal is my favorite medium. I also enjoy digital design and am proficient in Adobe Photoshop.
