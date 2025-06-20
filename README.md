@@ -57,9 +57,10 @@ A Qt-based desktop finance dashboard built for Fuji Tsubame Co., Ltd. to manage 
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
 [![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=github&logoColor=white)](https://git-scm.com/)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=R4VILKHGB&show_icons=true)
+-->
 
 ## Get in Touch
 
