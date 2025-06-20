@@ -1,7 +1,7 @@
 # 👋 Hi, my name is Ravil
 
 ## Computer Science Graduate | Software Developer | Data Scientist
-I'm a computer science graduate from the University of British Columbia with a strong passion for AI, data analysis, and UI/UX design. My work focuses on building user-centric software that blends innovation with functionality. Over the past few years, I’ve gained hands-on experience in data analysis, web development, and design—both through academic projects and real-world applications.
+I'm a computer science graduate from the University of British Columbia with a strong passion for AI and data analysis. My work focuses on building user-centric software that blends innovation with functionality. Over the past few years, I’ve gained hands-on experience in data analysis, web development, and design—both through academic projects and real-world applications.
 
 One of my most impactful experiences was contributing to **Spacey's (Stratospheric Polarization Analysis for Calculating Electromagnetic Yaw)** as part of the CAN-SBX 2023–2024 Canadian Stratospheric Balloon Experiment Design Challenge. Our team developed a unique payload to be launched into the stratosphere, where I engineered a system using a Raspberry Pi Pico to track payload rotation via electromagnetic fields—successfully tested during our launch on June 24 at the Timmins Victor M. Power Airport. This project was supported by CEDS-EEDS Canada and the Canadian Space Agency. 
 
