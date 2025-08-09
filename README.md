@@ -3,8 +3,6 @@
 ## Software Developer | Data Scientist
 I'm a computer science graduate from the University of British Columbia with a strong passion for software development and data analysis. My work focuses on building user-centric software that blends innovation with functionality. Over the past few years, I’ve gained hands-on experience in data analysis, web development, and design—both through academic projects and real-world applications.
 
-One of my most impactful experiences was contributing to **Spacey's (Stratospheric Polarization Analysis for Calculating Electromagnetic Yaw)** as part of the CAN-SBX 2023–2024 Canadian Stratospheric Balloon Experiment Design Challenge. Our team developed a unique payload to be launched into the stratosphere, where I engineered a system using a Raspberry Pi Pico to track payload rotation via electromagnetic fields—successfully tested during our launch on June 24 at the Timmins Victor M. Power Airport. This project was supported by CEDS-EEDS Canada and the Canadian Space Agency. 
-
 - 👀 I’m interested in deep learning and data analysis.
 - 🌱 I’m currently exploring advanced AI and creative applications of machine learning.
 - ⚡ Fun fact: I’ve been drawing since I could hold a pencil—charcoal is my favorite medium. I also enjoy digital design and am proficient in Adobe Photoshop.
@@ -14,7 +12,7 @@ One of my most impactful experiences was contributing to **Spacey's (Stratospher
 ### [My Portfolio](https://www.ravilb.dev/)
 
 ### [Spacey's Blog](https://spaceys.blog/) | [Spacey's Main Repo](https://github.com/R4VILKHGB/Spaceys) | [Spacey's Balloon Tracker](https://github.com/R4VILKHGB/Spaceys-balloon-tracker)
-Official UBCO team for CAN-SBX 2023–2024. I led software development for our stratospheric payload, building the microcontroller software architecture in Python and creating a custom program to track and adjust the ground station antenna orientation post-launch.
+Official UBCO team for CAN-SBX 2023–2024 Canadian Stratospheric Balloon Experiment Design Challenge, supported by CEDS-EEDS Canada and the Canadian Space Agency. I led software development for our payload, designing the microcontroller software architecture in Python on a Raspberry Pi Pico to track payload rotation via electromagnetic fields. I also developed a custom program to adjust ground station antenna orientation post-launch. Our payload was successfully launched and tested on June 24, 2024, at Timmins Victor M. Power Airport.
 
 ### [AIDE](https://www.youtube.com/watch?v=Tc8tgeKsu0M)
 AI-powered platform built to streamline grading in web development courses. As part of a six-person capstone team, I co-developed AIDE using a microservices architecture (React frontend, Node.js backend, PostgreSQL database). We implemented Docker for containerization and Drone CI for seamless deployment. AIDE automates grading of HTML/CSS/JS and weblink submissions and provides personalized feedback to students. 
