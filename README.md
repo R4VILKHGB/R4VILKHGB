@@ -9,8 +9,6 @@ I'm a computer science graduate from the University of British Columbia with a s
 
 ## Projects
 
-### [My Portfolio](https://www.ravilb.dev/)
-
 ### [Spacey's Blog](https://spaceys.blog/) | [Spacey's Main Repo](https://github.com/R4VILKHGB/Spaceys) | [Spacey's Balloon Tracker](https://github.com/R4VILKHGB/Spaceys-balloon-tracker)
 Official UBCO team for CAN-SBX 2023–2024 Canadian Stratospheric Balloon Experiment Design Challenge, supported by CEDS-EEDS Canada and the Canadian Space Agency. I led software development for our payload, designing the microcontroller software architecture in Python on a Raspberry Pi Pico to track payload rotation via electromagnetic fields. I also developed a custom program to adjust ground station antenna orientation post-launch. Our payload was successfully launched and tested on June 24, 2024, at Timmins Victor M. Power Airport.
 
