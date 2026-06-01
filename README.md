@@ -1,11 +1,18 @@
 # 👋 Hi, my name is Ravil
 
-## Software Developer | Data Scientist
-I'm a computer science graduate from the University of British Columbia with a strong passion for software development and data analysis. My work focuses on building user-centric software that blends innovation with functionality. Over the past few years, I’ve gained hands-on experience in data analysis, web development, and design—both through academic projects and real-world applications.
+## Software Developer
+I'm a computer science graduate from the University of British Columbia with a strong passion for software development. My work focuses on building user-centric software that blends innovation with functionality. Over the past few years, I’ve gained hands-on experience in data analysis, web development, and design—both through academic projects and real-world applications.
 
-- 👀 I’m interested in deep learning and data analysis.
-- 🌱 I’m currently exploring advanced AI and creative applications of machine learning.
-- ⚡ Fun fact: I’ve been drawing since I could hold a pencil—charcoal is my favorite medium. I also enjoy digital design and am proficient in Adobe Photoshop.
+**Software Developer I** @ [UKG](https://www.ukg.com/) · Kelowna, BC (Remote) · Aug 2025 – Present
+
+- Building and maintaining internal full-stack applications with **Java**, **Spring Boot**, and **SQL**
+- Developing front-end interfaces in **Angular** & **AngularJS**, backed by scalable REST APIs
+- **Quality advocate** — designing test plans, managing cycles in **TestRail**, and writing automation with
+  **JUnit** & **TestNG**
+- Contributing to **CI/CD** pipelines using **Jenkins** & **Gradle** to streamline build, test, and deployment
+- Monitoring production with **Splunk** — proactively catching and resolving NPEs and HTTP 500s before customer
+  impact
+- Diagnosing and resolving production issues to improve system stability and reduce reported defects
 
 ## Projects
 
