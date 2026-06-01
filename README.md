@@ -1,10 +1,9 @@
 # 👋 Hi, my name is Ravil
 
 ## Software Developer
-I'm a computer science graduate from the University of British Columbia with a strong passion for software development. My work focuses on building user-centric software that blends innovation with functionality. Over the past few years, I’ve gained hands-on experience in data analysis, web development, and design—both through academic projects and real-world applications.
+I'm a computer science graduate from the University of British Columbia with a strong passion for software development. My work focuses on building user-centric software that blends innovation with functionality. Over the past few years, I’ve gained hands-on experience in data analysis, web development, and design—both through academic projects and real-world applications. 
 
-**Software Developer I** @ [UKG](https://www.ukg.com/) · Kelowna, BC (Remote) · Aug 2025 – Present
-
+I'm currently working at UKG as a software developer.
 - Building and maintaining internal full-stack applications with **Java**, **Spring Boot**, and **SQL**
 - Developing front-end interfaces in **Angular** & **AngularJS**, backed by scalable REST APIs
 - **Quality advocate** — designing test plans, managing cycles in **TestRail**, and writing automation with
